@@ -1,0 +1,212 @@
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.container{
+    max-width: 600px;
+    max-height: 320px;
+    
+}
+
+.titre{
+    padding: 2,5em;
+  width: 45em;
+  height: 0,2em;
+  background-color: #ffffff;
+  border: 3px solid#EBC7E8;
+  margin: 0 auto;
+  border-radius: 10px;
+  text-align: center;
+box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.204);
+}
+
+.partie1ba {
+    padding: 2,5em;
+    width: 45em;
+    height: 0,2em;
+    background-color: #E19999;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+  box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.204);
+}
+
+.partie1foot {
+    margin: 10px;
+    padding: 2,5em;
+    width: 45em;
+    height: 0,2em;
+    background-color: #EEF1FF;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+  box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.204);
+}
+
+.partie2foot {
+    margin: 10px;
+    padding: 2,5em;
+    width: 45em;
+    height: 0,2em;
+    background-color: #EEF1FF;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+  box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.204);
+}
+
+.partie2ba {
+    padding: 2,5em;
+    width: 45em;
+    height: 0,2em;
+    background-color: #E19999;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+  box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.204);
+}
+
+.partie3ba {
+    padding: 2,5em;
+    width: 45em;
+    height: 0,2em;
+    background-color: #E19999;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+  box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.204);
+}
+
+.partie3foot {
+    margin: 10px;
+    padding: 2,5em;
+    width: 45em;
+    height: 0,2em;
+    background-color: #EEF1FF;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+  box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.204);
+}
+
+.partie4foot {
+    margin: 10px;
+    padding: 2,5em;
+    width: 45em;
+    height: 0,2em;
+    background-color: #EEF1FF;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+  box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.204);
+}
+
+.partie4ba {
+    padding: 2,5em;
+    width: 45em;
+    height: 0,2em;
+    background-color: #E19999;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+  box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.204);
+}
+
+.bordimages {
+    border-radius: 20px;
+}
+
+#imagegauche {
+    display: flex;
+    justify-items: flex-start;
+    border-radius: 10px ;
+}
+
+#imagedroite {
+    display: flex;
+    justify-items: flex-end;
+    border-radius: 10px;
+}
+
+.titre1{
+    color: white;
+    padding: 2,5em;
+    width: 45em;
+    height: 0,2em;
+    background-color: #000000;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+  box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.204);  
+}
+.titre2 {
+    color: white;
+    padding: 2,5em;
+    width: 45em;
+    height: 0,2em;
+    background-color: #000000;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+  box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.204);  
+}
+
+.titre3{
+    color: white;
+    padding: 2,5em;
+    width: 45em;
+    height: 0,2em;
+    background-color: #000000;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+  box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.204);  
+}
+
+.titre4{
+    color: white;
+    padding: 2,5em;
+    width: 45em;
+    height: 0,2em;
+    background-color: #000000;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+  box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.204);  
+}
+.fin{
+    padding: 2,5em;
+    width: 45em;
+    height: 0,2em;
+    background-color: #E19999;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+  box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.204);
+
+}
+.basket{
+    color: rgb(42, 29, 29);
+    padding: 2,5em;
+    width: 45em;
+    height: 0,2em;
+    background-color: #dc5050;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+  box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.204); 
+
+}
+.foot{
+    color: rgb(12, 44, 78);
+    padding: 2,5em;
+    width: 45em;
+    height: 0,2em;
+    background-color: #3b8de4;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+  box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.204); 
+}
